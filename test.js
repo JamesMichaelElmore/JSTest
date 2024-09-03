@@ -1,1 +1,2 @@
-alert("Test Passed");
+function myFunction(){
+    alert("Test Passed")}
